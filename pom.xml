@@ -55,6 +55,7 @@
         <module>connectors</module>
         <module>core-integration-test</module>
         <module>distribution</module>
+        <module>apply</module>
     </modules>
     <dependencies>
         <dependency>

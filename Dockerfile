@@ -1,4 +1,4 @@
-FROM maven:latest
+FROM maven:3.6.3-jdk-8
 
 COPY . /usr/src/app
 WORKDIR /usr/src/app
